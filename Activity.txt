@@ -1,1 +1,1 @@
-Activity ID,Activity_Type,Notes
+Activity ID,Activity_Type,Steps,Duration,Calories_Burned,Difficulty,Notes
