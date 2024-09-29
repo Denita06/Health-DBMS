@@ -1,1 +1,11 @@
 RestrictionID,PatientID,Restriction_Type,Notes
+R001,P00001,Gluten,Patient has a gluten allergy
+R002,P00002,None,No dietary restrictions
+R003,P00003,None,No specific restrictions
+R004,P00004,Caloric,Focus on caloric intake management
+R005,P00005,Vegetarian,Patient follows a vegetarian diet
+R006,P00006,Low-Sodium,Monitor sodium intake for heart health
+R007,P00007,Low-Carb,Advised to follow a low-carb diet
+R008,P00008,None,No dietary restrictions
+R009,P00009,Low-Fat,Focus on low-fat food options
+R010,P00010,High-Protein,Recommended high-protein diet
