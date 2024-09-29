@@ -1,1 +1,11 @@
-MetricID,PatientID,Metric_Type,Weight,Height,Resting_Heart_Rate,BMI,Allergens,Sleep_Duration,Notes
+MetricID,PatientID,Gender,Metric_Type,Weight,Height,Resting_Heart_Rate,BMI,Allergens,Sleep_Duration,Notes
+M001,P00001,Male,Physical,180 lbs,5'10",72 bpm,25,Gluten,7 hours,Monitored for gluten allergy
+M002,P00002,Female,Physical,150 lbs,5'5",68 bpm,22,None,8 hours,Requires low-impact exercises
+M003,P00003,Female,Physical,165 lbs,5'6",75 bpm,27,None,6 hours,Patient is recovering from surgery
+M004,P00004,Male,Physical,210 lbs,6'0",80 bpm,28,None,7 hours,Focus on weight management
+M005,P00005,Female,Physical,130 lbs,5'4",70 bpm,22,None,8 hours,Vegetarian diet plan recommended
+M006,P00006,Male,Physical,190 lbs,5'9",76 bpm,26,Peanuts,6 hours,Monitor heart condition
+M007,P00007,Female,Physical,160 lbs,5'7",65 bpm,24,Dairy,7 hours,Low-carb diet advised
+M008,P00008,Male,Physical,175 lbs,6'1",73 bpm,23,None,7 hours,Post-physical therapy rehabilitation
+M009,P00009,Female,Physical,200 lbs,5'8",78 bpm,30,None,6 hours,Focus on cardiovascular health
+M010,P00010,Male,Physical,185 lbs,5'11",69 bpm,26,Shellfish,8 hours,High-protein diet recommended
