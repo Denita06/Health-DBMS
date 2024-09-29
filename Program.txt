@@ -1,1 +1,8 @@
 Program ID,Prog_Name,Prog_Duration,Age_Group,Notes
+PRG100,Cardio Fitness,6 months,Adults,Focus on improving cardiovascular health
+PRG101,Strength Training,9 months,Seniors,Low-impact exercises designed for senior citizens
+PRG102,Post-Surgery Rehab,6 months,Adults,Rehabilitation program after surgery or injury
+PRG103,Weight Management,12 months,Adults,Program focused on weight loss and healthy living
+PRG104,Advanced Fitness,9 months,Adults,High-intensity training for advanced fitness enthusiasts
+PRG105,Healthy Eating,3 months,All Ages,Focus on nutrition and dietary improvements
+PRG106,Heart Health,6 months,Adults,Program to monitor and improve heart condition
