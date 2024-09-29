@@ -1,11 +1,11 @@
-Activity ID,Patient ID,Activity_Type,Steps,Duration,Calories_Burned,Difficulty,Notes
-A001,P00001,Walking,5000,30 minutes,250,Moderate,Patient walking daily to improve mobility and manage weight.
-A002,P00002,Yoga,3000,45 minutes,150,Easy,Low-impact yoga for flexibility and relaxation.
-A003,P00003,Cycling,7000,60 minutes,400,Moderate,Cycling to support recovery post-surgery and build endurance.
-A004,P00004,Strength Training,2000,30 minutes,300,Hard,Weight training sessions to maintain current body weight.
-A005,P00005,Swimming,4000,45 minutes,350,Moderate,Swimming to enhance cardiovascular health and balance diet.
-A006,P00006,Running,6000,40 minutes,500,Hard,Running to improve heart health and reduce stress.
-A007,P00007,Aerobics,3500,30 minutes,250,Moderate,Light aerobics to complement low-carb diet.
-A008,P00008,HIIT,1500,20 minutes,400,Hard,High-intensity interval training to aid post-therapy recovery.
-A009,P00009,Dance,2000,30 minutes,200,Easy,Fun dance sessions to enhance cardiovascular fitness.
-A010,P00010,Stretching,1000,15 minutes,50,Easy,Daily stretching to improve flexibility and reduce muscle tension.
+ActivityID,PatientID,Activity_Type,Steps,Duration,Calories_Burned,Difficulty,Notes
+ACT001,P00001,Walking,5000,30 minutes,200,Moderate,Focus on increasing daily steps to manage weight and health.
+ACT002,P00002,Yoga,3000,45 minutes,150,Easy,Low-impact yoga sessions to improve flexibility and relieve stress.
+ACT003,P00003,Strength Training,4000,60 minutes,300,Hard,Include strength training exercises to aid recovery and manage weight.
+ACT004,P00004,Walking,6000,40 minutes,250,Moderate,Daily walks to help with weight management and cardiovascular health.
+ACT005,P00005,Cycling,3500,30 minutes,180,Easy,Moderate cycling for cardiovascular fitness while maintaining a vegetarian diet.
+ACT006,P00006,Swimming,4500,50 minutes,350,Moderate,Low-impact swimming to monitor heart health and maintain fitness.
+ACT007,P00007,High-Intensity Interval Training,5500,30 minutes,400,Hard,Incorporate HIIT to support weight management and overall fitness.
+ACT008,P00008,Rehabilitation Exercises,2000,30 minutes,100,Easy,Targeted rehab exercises to assist recovery post-therapy.
+ACT009,P00009,Cardio Workout,7000,60 minutes,500,Hard,Focus on cardio to improve heart health and monitor weight.
+ACT010,P00010,Dietary Activity,4000,30 minutes,150,Moderate,Include meal prep activities to support a high-protein diet.
