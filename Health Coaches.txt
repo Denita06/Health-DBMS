@@ -1,6 +1,6 @@
-CoachIDCoachID,ProgramID,First_Name,Last_Name,Gender,Email,Phone
-C00001,PRG102,Ava,Thompson,Female,ava.thompson@email.com,302-456-7890
-C00002,PRG100,Lucas,Robinson,Male,lucas.robinson@email.com,410-987-6543
-C00003,Sophia,Johnson,Female,sophia.johnson@email.com,215-321-9876
-C00004,James,Smith,Male,james.smith@email.com,302-789-4561
-C00005,Mia,Clark,Female,mia.clark@email.com,202-654-1234
+CoachID,ProgramID,First_Name,Last_Name,Gender,Email,Phone,Specialization
+C00001,PRG102,Ava,Thompson,Female,ava.thompson@email.com,302-456-7890,Nutrition; Weight Loss
+C00002,PRG100,Lucas,Robinson,Male,lucas.robinson@email.com,410-987-6543,Physical Therapy; Rehabilitation
+C00003,Sophia,Johnson,Female,sophia.johnson@email.com,215-321-9876,Rehabilitation
+C00004,James,Smith,Male,james.smith@email.com,302-789-4561,Cardiac Care
+C00005,Mia,Clark,Female,mia.clark@email.com,202-654-1234,Dietary Management; Nutrition
