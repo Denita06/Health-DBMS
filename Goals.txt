@@ -1,1 +1,11 @@
 GoalID,PatientID,Goal_Type,Target_Value,Start_Date,Notes
+G001,P00001,Nutrition,Gluten-Free Diet,2024-01-01,Achieve a balanced gluten-free diet to alleviate symptoms.
+G002,P00002,Exercise,Weight Loss of 10 lbs,2024-02-01,Engage in low-impact exercises to reach target weight.
+G003,P00003,Recovery,Full Mobility,2024-03-01,Achieve full mobility after surgery through rehabilitation.
+G004,P00004,Weight Management,Maintain 200 lbs,2024-01-15,Focus on caloric intake to sustain weight.
+G005,P00005,Diet,Vegetarian Meal Planning,2024-02-05,Develop a weekly vegetarian meal plan for balanced nutrition.
+G006,P00006,Health,Lower Sodium Intake,2024-01-10,Reduce sodium intake to manage heart health effectively.
+G007,P00007,Diet,Low-Carb Diet,2024-01-15,Adhere to a low-carb diet for better health outcomes.
+G008,P00008,Rehabilitation,Complete Therapy,2024-02-01,Achieve full recovery post-physical therapy sessions.
+G009,P00009,Cardio,Increase Cardio Endurance,2024-01-20,Improve cardiovascular endurance through targeted exercises.
+G010,P00010,Diet,High-Protein Intake,2024-01-05,Implement a high-protein diet plan to support fitness goals.
