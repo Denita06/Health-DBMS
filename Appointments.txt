@@ -1,11 +1,11 @@
 AppointmentID,PatientID,CoachID,App_Date,App_Type,Notes
-AP001,P00001,C00001,2024-01-15,Nutrition,Discuss gluten-free meal plans focusing on dietary restrictions.
-AP002,P00002,C00002,2024-02-20,Exercise,Review low-impact exercises suitable for the patient's restrictions.
-AP003,P00003,C00001,2024-03-10,Recovery Assessment,Check recovery progress post-surgery with a focus on nutrition.
-AP004,P00004,C00003,2024-01-25,Weight Management,Discuss caloric intake strategies to manage weight.
-AP005,P00005,C00002,2024-02-05,Dietary Review,Plan vegetarian meals while ensuring balanced nutrition.
+AP001,P00001,C00001,2024-01-15,Nutrition,Discuss gluten-free meal plans focusing on weight management and gluten allergy.
+AP002,P00002,C00002,2024-02-20,Exercise,Review low-impact exercises suitable for the patient’s restrictions.
+AP003,P00003,C00001,2024-03-10,Recovery Assessment,Check recovery progress post-surgery; focus on nutrition and managing weight.
+AP004,P00004,C00003,2024-01-25,Weight Management,Discuss caloric intake strategies to manage weight and support weight loss.
+AP005,P00005,C00002,2024-02-05,Dietary Review,Plan vegetarian meals while ensuring balanced nutrition for weight maintenance.
 AP006,P00006,C00004,2024-03-15,Health Monitoring,Review heart health and sodium intake based on dietary restrictions.
-AP007,P00007,C00003,2024-01-30,Low-Carb Diet Consultation,Discuss low-carb meal options that align with dietary restrictions.
+AP007,P00007,C00003,2024-01-30,Low-Carb Diet Consultation,Discuss low-carb meal options for weight management and dietary preferences.
 AP008,P00008,C00001,2024-02-28,Rehabilitation,Monitor recovery post-therapy with dietary adjustments.
 AP009,P00009,C00004,2024-03-20,Cardio Assessment,Focus on cardiovascular health strategies and dietary restrictions.
 AP010,P00010,C00002,2024-01-10,Diet Consultation,Discuss high-protein diet plans while considering dietary preferences.
