@@ -1,1 +1,11 @@
-Activity ID,Activity_Type,Steps,Duration,Calories_Burned,Difficulty,Notes
+Activity ID,Patient ID,Activity_Type,Steps,Duration,Calories_Burned,Difficulty,Notes
+A001,P00001,Walking,5000,30 minutes,250,Moderate,Patient walking daily to improve mobility and manage weight.
+A002,P00002,Yoga,3000,45 minutes,150,Easy,Low-impact yoga for flexibility and relaxation.
+A003,P00003,Cycling,7000,60 minutes,400,Moderate,Cycling to support recovery post-surgery and build endurance.
+A004,P00004,Strength Training,2000,30 minutes,300,Hard,Weight training sessions to maintain current body weight.
+A005,P00005,Swimming,4000,45 minutes,350,Moderate,Swimming to enhance cardiovascular health and balance diet.
+A006,P00006,Running,6000,40 minutes,500,Hard,Running to improve heart health and reduce stress.
+A007,P00007,Aerobics,3500,30 minutes,250,Moderate,Light aerobics to complement low-carb diet.
+A008,P00008,HIIT,1500,20 minutes,400,Hard,High-intensity interval training to aid post-therapy recovery.
+A009,P00009,Dance,2000,30 minutes,200,Easy,Fun dance sessions to enhance cardiovascular fitness.
+A010,P00010,Stretching,1000,15 minutes,50,Easy,Daily stretching to improve flexibility and reduce muscle tension.
