@@ -1,6 +1,6 @@
 CoachID,ProgramID,First_Name,Last_Name,Gender,Email,Phone,Specialization
-C00001,PRG102,William,Robinson,Male,william.robinson@email.com,302-555-7890,Nutrition
-C00002,PRG105,Sarah,Thompson,Female,sarah.thompson@email.com,302-555-1234,Exercise, Diet Planning
-C00003,PRG104,James,Williams,Male,james.williams@email.com,302-555-4567,Weight Management, Low-Carb Diet
-C00004,PRG106,Emily,Clark,Female,emily.clark@email.com,302-555-7891,Health Monitoring, Cardio Health
-C00005,PRG107,David,Martinez,Male,david.martinez@email.com,302-555-9876,Strength Training, Endurance
+C00001,PRG102,William,Robinson,Male,william.robinson@email.com,302-555-7890,'Nutrition'
+C00002,PRG105,Sarah,Thompson,Female,sarah.thompson@email.com,302-555-1234,'Exercise, Diet Planning'
+C00003,PRG104,James,Williams,Male,james.williams@email.com,302-555-4567,'Weight Management, Low-Carb Diet'
+C00004,PRG106,Emily,Clark,Female,emily.clark@email.com,302-555-7891,'Health Monitoring, Cardio Health'
+C00005,PRG107,David,Martinez,Male,david.martinez@email.com,302-555-9876,'Strength Training, Endurance'
