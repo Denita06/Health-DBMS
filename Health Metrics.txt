@@ -1,12 +1,12 @@
-MetricID,PatientID,Gender,Metric_Type,Weight (lbs),Height (ft/in),Resting_Heart_Rate (BPM),BMI,Allergens,Sleep_Duration,Notes
-M001,P00001,Male,Weight,187.4,5'11,75,26.2,Gluten,7,"Moderate weight for nutritional improvement; gluten allergy considered."
-M002,P00002,Female,Weight,149.9,5'5,70,24.9,None,8,"Follows low-impact exercise program; no dietary restrictions."
-M003,P00003,Female,Weight,209.4,5'7,78,32.9,None,6,"Post-surgery recovery, obesity in focus; no specific restrictions."
-M004,P00004,Male,Weight,242.5,6'1,80,32.1,None,7,"Patient undergoing weight management program; caloric intake management advised."
-M005,P00005,Female,Weight,158.7,5'9,70,23.5,None,7,"Advised to follow a balanced diet plan; vegetarian diet."
-M006,P00006,Male,Weight,231.5,6'3,82,29.1,None,6,"Cardio-focused program due to high weight; low-sodium diet recommended."
-M007,P00007,Female,Weight,132.3,5'4,68,22.9,None,8,"Light exercises for maintaining BMI; advised to follow a low-carb diet."
-M008,P00008,Male,Weight,191.8,5'10,72,27.5,None,7,"Strength training for muscle building; no dietary restrictions."
-M009,P00009,Female,Weight,202.8,5'6,75,32.6,None,6,"Focus on cardio health due to obesity; low-fat food options encouraged."
-M010,P00010,Male,Weight,171.6,5'11,68,23.5,Peanuts,7,"High-protein diet for lean body mass; recommended high-protein intake."
+MetricID,PatientID,Gender,Weight_lbs,Height_in,Resting_Heart_Rate,Sleep_Duration,Notes
+M001,P00001,Male,187.4,5'11,75,7,"Moderate weight for nutritional improvement; gluten allergy considered."
+M002,P00002,Female,149.9,5'5,70,8,"Follows low-impact exercise program; no dietary restrictions."
+M003,P00003,Female,209.4,5'7,78,6,"Post-surgery recovery, obesity in focus; no specific restrictions."
+M004,P00004,Male,242.5,6'1,80,7,"Patient undergoing weight management program; caloric intake management advised."
+M005,P00005,Female,158.7,5'9,70,7,"Advised to follow a balanced diet plan; vegetarian diet."
+M006,P00006,Male,231.5,6'3,82,6,"Cardio-focused program due to high weight; low-sodium diet recommended."
+M007,P00007,Female,132.3,5'4,68,8,"Light exercises for maintaining BMI; advised to follow a low-carb diet."
+M008,P00008,Male,191.8,5'10,72,7,"Strength training for muscle building; no dietary restrictions."
+M009,P00009,Female,202.8,5'6,75,6,"Focus on cardio health due to obesity; low-fat food options encouraged."
+M010,P00010,Male,171.6,5'11,68,7,"High-protein diet for lean body mass; recommended high-protein intake."
 
