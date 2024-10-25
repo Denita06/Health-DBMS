@@ -1,4 +1,4 @@
-Patient ID,Program ID,First Name,M.I,Last Name,Gender,DOB,Email,Phone,Address,Zipcode,Notes
+PatientID,ProgramID,FirstName,M.I,LastName,Gender,DOB,Email,Phone,Address,Zipcode,Notes
 P00001,PRG102,John,A,Doe,Male,04/12/1985,johndoe@email.com,302-555-0111,"123 Maple St,Newark,DE",19711,Patient has a gluten allergy
 P00002,PRG100,Jane,A,Smith,Female,09/05/1990,janesmith@email.com,302-555-0222,"456 Oak Ave,Dover,DE",19901,Requires low-impact exercises
 P00003,PRG103,Emily,L,Davis,Female,11/23/1978,emilydavis@email.com,302-555-0333,"789 Pine Rd,Wilmington,DE",19801,Patient is recovering from surgery
