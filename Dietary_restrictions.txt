@@ -10,3 +10,4 @@ R008,Low-Carb,Advised to follow a low-carb diet
 R009,Low-Fat,Focus on low-fat food options
 R010,High-Protein,Recommended high-protein diet
 R011,Keto,Patient follows a ketogenic diet
+R012,Other,Patient will specify
