@@ -1,8 +1,7 @@
 ProgramID,CoachID,Prog_Name,Prog_Duration,Notes
 PRG100,C00002,Low-Impact Fitness,6 months,Designed for patients requiring low-impact exercises.
 PRG101,C00003,Strength Building,4 months,Program to improve overall strength and endurance.
-PRG102,C00001,Nutrition Balance,3 months,Focus on balanced diets for improved health.
+PRG102,C00001,Nutrition & Diet Planning,1 month,Focus on balanced diets for improved health.
 PRG103,C00001,Post-Surgery Rehab,9 months,Recovery program for patients post-surgery.
 PRG104,C00003,Weight Management,6 months,Program to help manage and maintain healthy weight.
 PRG105,C00002,Diet Planning,12 months,Personalized diet planning for long-term health goals.
-PRG106,C00004,Cardio Health Monitoring,6 months,Cardio-focused program for heart health improvement.
