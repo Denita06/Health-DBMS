@@ -1,6 +1,6 @@
-CoachID,ProgramID,First_Name,Last_Name,Gender,Email,Phone,Specialization
-C00001,PRG102,William,Robinson,Male,william.robinson@email.com,302-555-7890,'Nutrition'
-C00002,PRG105,Sarah,Thompson,Female,sarah.thompson@email.com,302-555-1234,'Exercise, Diet Planning'
-C00003,PRG104,James,Williams,Male,james.williams@email.com,302-555-4567,'Weight Management, Low-Carb Diet'
-C00004,PRG106,Emily,Clark,Female,emily.clark@email.com,302-555-7891,'Health Monitoring, Cardio Health'
-C00005,PRG107,David,Martinez,Male,david.martinez@email.com,302-555-9876,'Strength Training, Endurance'
+CoachID,First_Name,Last_Name,Gender,Email,Phone,Specialization
+C00001,William,Robinson,Male,william.robinson@email.com,302-555-7890,'Moderate Obesity'
+C00002,Sarah,Thompson,Female,sarah.thompson@email.com,302-555-1234,'Moderate Obesity'
+C00003,James,Williams,Male,james.williams@email.com,302-555-4567,'Severe Obesity'
+C00004,Emily,Clark,Female,emily.clark@email.com,302-555-7891,'Severe Obesity'
+C00005,David,Martinez,Male,david.martinez@email.com,302-555-9876,'Morbid Obesity'
