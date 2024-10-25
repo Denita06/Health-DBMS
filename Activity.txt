@@ -1,11 +1,14 @@
 ActivityID,Activity_Type,Duration,Difficulty,Notes
-ACT001,Walking,30 minutes,Moderate,Focus on increasing daily steps to manage weight and health.
-ACT002,Yoga,45 minutes,Easy,Low-impact yoga sessions to improve flexibility and relieve stress.
-ACT003,Strength Training,60 minutes,Hard,Include strength training exercises to aid recovery and manage weight.
-ACT004,Cycling,30 minutes,Easy,Moderate cycling for cardiovascular fitness while maintaining a vegetarian diet.
-ACT005,Swimming,50 minutes,Moderate,Low-impact swimming to monitor heart health and maintain fitness.
-ACT006,High-Intensity Interval Training,30 minutes,Hard,Incorporate HIIT to support weight management and overall fitness.
-ACT007,Rehabilitation Exercises,30 minutes,Easy,Targeted rehab exercises to assist recovery post-therapy.
-ACT008,Cardio Workout,60 minutes,Hard,Focus on cardio to improve heart health and monitor weight.
-ACT009,Jump Roping,30 minutes,Hard,High-intensity jump roping for cardiovascular fitness and coordination.
-ACT010,Pilates,40 minutes,Moderate,Focus on core strength and flexibility through Pilates exercises.
+ACT001,Meal Planning Workshop,2 hours,Easy,Hands-on workshop to learn how to plan healthy meals that support nutritional balance.
+ACT002,Walking,30 minutes,Moderate,Focus on increasing daily steps to manage weight and health (includes hiking, jogging, treadmill, etc).
+ACT003,Yoga,45 minutes,Easy,Low-impact yoga sessions to improve flexibility and relieve stress.
+ACT004,Strength Training,60 minutes,Hard,Include strength training exercises to aid recovery and manage weight.
+ACT005,Cycling,30 minutes,Easy,Moderate cycling for cardiovascular fitness while maintaining a vegetarian diet.
+ACT006,Swimming,50 minutes,Moderate,Low-impact swimming to monitor heart health and maintain fitness.
+ACT007,High-Intensity Interval Training,30 minutes,Hard,Incorporate HIIT to support weight management and overall fitness.
+ACT008,Rehabilitation Exercises,30 minutes,Easy,Targeted rehab exercises to assist recovery post-therapy.
+ACT009,Cardio Workout,60 minutes,Hard,Focus on cardio to improve heart health and monitor weight.
+ACT010,Jump Roping,30 minutes,Hard,High-intensity jump roping for cardiovascular fitness and coordination.
+ACT011,Pilates,40 minutes,Moderate,Focus on core strength and flexibility through Pilates exercises.
+ACT012,Zumba,45 minutes,Moderate,Fun dance workout that combines cardio with rhythmic movement for weight management.
+ACT013,Body Weight Class,30 minutes,Moderate,Strength training using body weight exercises to improve fitness and endurance.
