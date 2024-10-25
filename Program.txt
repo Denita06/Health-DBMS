@@ -4,4 +4,4 @@ PRG101,C00003,Strength Building,4 months,Program to improve overall strength and
 PRG102,C00001,Nutrition & Diet Planning,1 month,Focus on balanced diets for improved health.
 PRG103,C00005,Post-Surgery Rehab,9 months,Recovery program for patients post-surgery.
 PRG104,C00004,Weight Management,6 months,Program to help manage and maintain healthy weight.
-PRG105,C00002,Diet Planning,12 months,Personalized diet planning for long-term health goals.
+PRG105,C00004,Cardio Health Monitoring & Meal Planning,6 months,Cardio-focused program for heart health improvement with meal planning guidance.
