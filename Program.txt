@@ -1,4 +1,4 @@
-ProgramID,CoachID,Prog_Name,Prog_Duration,Age_Group,Notes
+ProgramID,CoachID,Prog_Name,Prog_Duration,Notes
 PRG100,C00002,Low-Impact Fitness,6 months,Designed for patients requiring low-impact exercises.
 PRG101,C00003,Strength Building,4 months,Program to improve overall strength and endurance.
 PRG102,C00001,Nutrition Balance,3 months,Focus on balanced diets for improved health.
